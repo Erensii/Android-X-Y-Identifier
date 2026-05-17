@@ -1,7 +1,6 @@
 # android-xy
 
-Print **X,Y tap coordinates** from your Android phone over USB. Use the numbers for MacroDroid, Tasker, or any UI automation.
-
+Print **X,Y tap coordinates** from your Android phone over USB.
 ---
 
 ## What you need (all platforms)
